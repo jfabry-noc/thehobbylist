@@ -1,0 +1,22 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  color: #BD93F9;
+}
+
+a {
+  color: #00B7FF;
+}
+
+a.navbar-brand {
+  font-size: 2.5em;
+  color: #BD93F9;
+}
+
+a.nav-link {
+  font-size: 1.5em;
+}
+

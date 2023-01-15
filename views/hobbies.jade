@@ -1,0 +1,12 @@
+extends layout
+
+block content
+  block pageTitle
+  h1= title
+  h3= subTitle
+  p Find a new one for yourself!
+
+  ul
+    each hobby in allHobbies
+      li #{hobby}: Lulz these aren't links to anything yet.
+
